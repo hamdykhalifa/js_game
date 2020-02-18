@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "JS game engine",
   "main": "index.js",
+  "homepage": "https://hamdykhalifa.github.io/js_game",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Hamdy Khalifa",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
 }
