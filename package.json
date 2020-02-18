@@ -1,0 +1,11 @@
+{
+  "name": "js-_game",
+  "version": "1.0.0",
+  "description": "JS game engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hamdy Khalifa",
+  "license": "MIT"
+}
